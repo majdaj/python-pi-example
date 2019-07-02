@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
  def main(msg):
+     // Another comment
      // Adding a diffrenet commit 
      //Print a massege 
     print(msg)
