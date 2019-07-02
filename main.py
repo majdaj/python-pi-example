@@ -2,8 +2,8 @@
 
 <<<<<<< HEAD
  def main(msg):
-     // Adding a diffrenet commit to this bitch
+     // Adding a diffrenet commit 
      //Print a massege 
     print(msg)
 
-main("Hello People")
+main("Hello People this is a sample")
